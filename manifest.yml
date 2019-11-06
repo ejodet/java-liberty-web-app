@@ -6,5 +6,3 @@ applications:
   buildpack: liberty-for-java
   path: ./target/javalibertywebapp-1.0-SNAPSHOT.zip
   memory: 256M
-  domain: not-used.net
-  host: not-used
